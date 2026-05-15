@@ -57,6 +57,7 @@ SMS-Spam-Detection/
 ├── spam.csv
 ├── spam_detection.ipynb
 ├── requirements.txt
+├── Sms Spam Detection Project Report.pdf
 ├── README.md
 └── images/
     ├── dataset.png
